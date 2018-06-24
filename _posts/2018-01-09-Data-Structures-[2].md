@@ -3,7 +3,7 @@ layout: post
 title:  "数据结构[2] -- 二叉搜索树（BST）"
 categories: 数据结构和算法
 tags:  数据结构
-author: G.Fukang
+author: D.huihui
 ---
 
 * content

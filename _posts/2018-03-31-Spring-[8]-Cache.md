@@ -3,7 +3,7 @@ layout: post
 title:  "Spring学习笔记[8] -- Cache[缓存]"
 categories: WEB开发
 tags:  Spring
-author: G.Fukang
+author: D.huihui
 ---
 * content
 {:toc}

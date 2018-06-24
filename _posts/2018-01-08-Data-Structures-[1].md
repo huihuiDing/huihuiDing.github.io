@@ -3,7 +3,7 @@ layout: post
 title:  "数据结构[1] -- 栈、队列、优先队列、链表和堆"
 categories: 数据结构和算法
 tags:  数据结构
-author: G.Fukang
+author: D.huihui
 ---
 
 * content

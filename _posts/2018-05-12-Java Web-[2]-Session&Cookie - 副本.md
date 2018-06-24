@@ -3,7 +3,7 @@ layout: post
 title:  "Java Web 学习笔记[2] -- 深入理解 Session 与 Cookie"
 categories: WEB开发 Java-Web
 tags:  Session Cookie Java-Web
-author: G.Fukang
+author: D.huihui
 ---
 * content
 {:toc}

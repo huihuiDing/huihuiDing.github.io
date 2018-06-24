@@ -3,7 +3,7 @@ layout: post
 title:  "设计模式[1] -- 单例模式"
 categories: 设计模式
 tags:  单例模式
-author: G.Fukang
+author: D.huihui
 ---
 
 * content

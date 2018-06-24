@@ -3,7 +3,7 @@ layout: post
 title:  "Java Web 学习笔记[3] -- Tomcat 的系统架构"
 categories: WEB开发 Java-Web
 tags:  Tomcat Java-Web
-author: G.Fukang
+author: D.huihui
 ---
 * content
 {:toc}

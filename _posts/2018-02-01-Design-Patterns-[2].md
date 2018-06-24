@@ -3,7 +3,7 @@ layout: post
 title:  "设计模式[2] -- 工厂模式"
 categories: 设计模式
 tags:  工厂模式
-author: G.Fukang
+author: D.huihui
 ---
 * content
 {:toc}
