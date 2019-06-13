@@ -8,7 +8,7 @@ title: Echo_Ting
 subtitle: "Echo_Ting's Blog"
 description: "Echo_Ting's Blog"
 keywords: Echo_Ting, Test, Dev
-timezone: Asia/Shanghai
+timezone: Asia/Shenzhen
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
@@ -38,13 +38,13 @@ navs:
 #     href: /archives/
 #     label: 归档
 
-  -
-    href: /wiki/
-    label: 维基
+#  -
+#    href: /wiki/
+#    label: 维基
 
-  -
-    href: /links/
-    label: 链接
+#  -
+#    href: /links/
+#    label: 链接
 
   -
     href: /about/
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: huihuiDing/huihuiDing.github.io
 
 # ---------------- #
 #      Comments    #
@@ -95,17 +95,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
-    repo: blog-comments
+    owner: huihuiDing
+    repo: huihuiDing.github.io
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: huihuiDing
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: cb8dcb9e58f75953ea72
+    clientSecret: c8a62c677d4dde233ea9c4b1fbde73916ecfe5c1
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 

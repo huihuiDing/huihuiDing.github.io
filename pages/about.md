@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: you are more than what you have become
+keywords: Huihui Ding
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是丁绘绘
 
 仰慕「优雅编码的艺术」。
 
