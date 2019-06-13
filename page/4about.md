@@ -15,4 +15,4 @@ icon: heart
 ## 联系我
 
 * **GitHub:** [https://github.com/huihuiDing](https://github.com/huihuiDing)
-* **邮箱:** luncongzhang@gmail.com
+* **邮箱:** dinghuihi@163.com
