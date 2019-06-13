@@ -10,7 +10,7 @@ permalink: /about/
 
 ## 关于我
 
-目前入职[大疆创建](https://www.dji.com/cn)，坐标深圳，从事测试开发
+目前入职[大疆创新](https://www.dji.com/cn)，坐标深圳，从事测试开发
 
 ## 联系我
 
