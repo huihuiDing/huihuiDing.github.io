@@ -1,24 +1,28 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 icon: heart
-type: page
 ---
 
 * content
 {:toc}
+
 ## 关于我
 
-电子科技大学   电子与通信工程   硕士
+目前就职于腾讯
 
-**技术栈：**
+## 联系我
 
-- **Java  并发 + JVM + JMM**
-- **数据库  MySQL**
-- **web  Spring + SpringMVC + MyBatis**
-- **缓存 Redis**
+* **GitHub:** [https://github.com/metayx](https://github.com/metayx)
+* **邮箱:** luncongzhang@gmail.com
 
-## 关于本站
+## 友情链接
 
-**本站主要记录了我在备战 2018 年春招/秋招的 Java 学习笔记和生活随笔**
+
+[阿里中间件](http://jm.taobao.org/)
+
+[美团点评](https://tech.meituan.com/)
+
+![](https://i.loli.net/2018/07/23/5b558352b739a.jpg)
+
