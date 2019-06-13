@@ -8,25 +8,11 @@ menu: 关于
 permalink: /about/
 ---
 
-我是丁绘绘
+## 关于我
 
-仰慕「优雅编码的艺术」。
+目前入职[大疆创建](https://www.dji.com/cn)，坐标深圳，从事测试开发
 
-坚信熟能生巧，努力改变人生。
+## 联系我
 
-## 联系
-
-{% for website in site.data.social %}
-* {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
-{% endfor %}
-
-## Skill Keywords
-
-{% for category in site.data.skills %}
-### {{ category.name }}
-<div class="btn-inline">
-{% for keyword in category.keywords %}
-<button class="btn btn-outline" type="button">{{ keyword }}</button>
-{% endfor %}
-</div>
-{% endfor %}
+- Github：[@huihuiDing](https://github.com/huihuiDing)
+- Emial：[dinghuihi@163.com](dinghuihi@163.com)
